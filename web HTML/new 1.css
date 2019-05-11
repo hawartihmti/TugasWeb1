@@ -1,0 +1,52 @@
+BODY{background-image: url("www.jpg");
+background-repeat: repeat-x; }
+#header{padding: 20px;
+border: 1px solid #000000;			/*border=garis tepi*/ /*solid=untuk warna ketebalan*/
+background-color: #F0F8FF;
+text-align: center;}
+
+#footer{padding: 20px;
+border: 1px solid #000000;
+background-color: #F0F8FF;
+text-align: center;}
+
+#navigasi ul{ list-style-type: none;
+overflow: hidden;
+color:#fff;
+list-style:none;
+float:left;
+padding:0;
+width: 500px;
+margin: 0 0 0;
+background:#C0C0C0;
+-webkit-box-shadow: 1px 1px 1px 0px rgba(204, 204,204,0.55);
+-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+box-shadow: 1px 1px 1px 0px rgbh(204,204,204,0.55);
+}
+#navigasi ul a{
+	padding:15px;
+	display:block;
+	font-weight:500;
+	font-size: 16px
+	color:#fff;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+text-decoration: none;}
+
+#navigasi ul li {
+	margin:0;
+	float:left;
+}
+#isi{background-color: #F0F8FF;
+width: 85%;/*lebar elemen*/
+margin-bottom: 10px;
+margin-left: 110px;
+padding: 20px;						/*padding: sama dengan margin*/
+border: 1px solid #000;
+margin-top: 30px;}
+
+
+
+
+
+	 
